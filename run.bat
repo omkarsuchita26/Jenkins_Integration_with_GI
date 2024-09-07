@@ -1,0 +1,3 @@
+cd src\main\java\Part_8_AutomationStepByStep\Jenkins_Integration_with_GIT
+javac Addition.java
+java Addition.java
